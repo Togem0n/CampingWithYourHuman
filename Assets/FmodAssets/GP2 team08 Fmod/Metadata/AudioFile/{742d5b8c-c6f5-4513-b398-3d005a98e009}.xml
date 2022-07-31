@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{742d5b8c-c6f5-4513-b398-3d005a98e009}">
+		<property name="assetPath">
+			<value>Spirit_scared.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.6948526077097505</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3a4cd6ed-2811-487a-a75c-2e1abcf23edf}</destination>
+		</relationship>
+	</object>
+</objects>

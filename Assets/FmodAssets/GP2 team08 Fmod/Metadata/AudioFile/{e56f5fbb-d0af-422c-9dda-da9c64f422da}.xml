@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{e56f5fbb-d0af-422c-9dda-da9c64f422da}">
+		<property name="assetPath">
+			<value>Spirit_Spawn.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.7496825396825395</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3a4cd6ed-2811-487a-a75c-2e1abcf23edf}</destination>
+		</relationship>
+	</object>
+</objects>

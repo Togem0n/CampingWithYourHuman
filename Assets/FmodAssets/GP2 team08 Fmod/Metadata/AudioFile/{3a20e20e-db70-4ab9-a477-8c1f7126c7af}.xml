@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{3a20e20e-db70-4ab9-a477-8c1f7126c7af}">
+		<property name="assetPath">
+			<value>Item_pop_up.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.34235827664399093</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3a4cd6ed-2811-487a-a75c-2e1abcf23edf}</destination>
+		</relationship>
+	</object>
+</objects>
